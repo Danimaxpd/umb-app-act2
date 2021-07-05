@@ -39,7 +39,7 @@ public class GalleryFragment extends Fragment {
         btnSearchUrl.setOnClickListener(v -> {
             urlWb = userUrlText.getText();
             setPageAndLoad(binding, urlWb);
-        } );
+        });
 
         setPageAndLoad(binding, urlWb);
 

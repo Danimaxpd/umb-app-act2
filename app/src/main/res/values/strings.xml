@@ -17,5 +17,7 @@
     <string name="form_agenda_subject">Asunto</string>
     <string name="form_agenda_activity">Actividad</string>
     <string name="word_insert">Introduzca</string>
+    <string name="word_saved">Guardar</string>
+    <string name="word_schedule">Agendas</string>
 
 </resources>

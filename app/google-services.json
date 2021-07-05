@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446254003783",
+    "project_id": "umb-android",
+    "storage_bucket": "umb-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446254003783:android:1b255301a6ee493377e362",
+        "android_client_info": {
+          "package_name": "com.umb.activity2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446254003783-2dnve6sn57m09esddj9644ulj027gan9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhUTZOXMU7x-L_JUhw28D-tcz1ZQ_1Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446254003783-2dnve6sn57m09esddj9644ulj027gan9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
